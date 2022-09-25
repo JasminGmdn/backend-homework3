@@ -1,0 +1,20 @@
+
+
+ul {
+  color: cadetblue;
+  display: "flex",
+  justifyContent: "center"
+}
+
+p {
+  color: rgb(188, 91, 236);
+  display: "flex",
+  justifyContent: "center"
+}
+
+.img-cards {
+  height: 100px;
+  width: 100px;
+  display: "flex",
+  justifyContent: "center"
+}
